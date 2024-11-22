@@ -1,0 +1,27 @@
+.background {
+    background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(23,9,121,1) 35%, rgba(255,0,245,1) 70%);
+min-height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+.Magic {
+border-radius: 100%;
+border: powderblue 1px solid;
+height: 150px;
+width: 150px;
+top: 150px;
+right: 850px;
+position: absolute;
+}
+
+.sparks {
+    height: 50px;
+    width: 50px;
+    top: 150px;
+    right: 850;
+}
