@@ -19,9 +19,38 @@ right: 850px;
 position: absolute;
 }
 
-.sparks {
+.sparks1 {
     height: 50px;
     width: 50px;
+    top: 200px;
+    right: 800px;
+    position: absolute;
+}
+
+.sparks2 {
+    height: 50px;
+    width: 50px;
+    top: 200px;
+    right: 1000px;
+    position: absolute;
+}
+
+.ask {
+    height: 150px;
+    width: 100px;
+    right: 900px;
+    position: absolute;
+}
+
+.spin {
+    height: 150px;
+    width: 150px;
     top: 150px;
-    right: 850;
+    right: 850px;
+    position: absolute;
+}
+
+.formal-control {
+    width: 1px;
+    position: absolute;
 }
